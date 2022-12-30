@@ -1,0 +1,1 @@
+{"id":"9a3edccb-2a36-4a34-bd1f-954e3bcddbe0","space":46016,"runtime":"python3.9","name":"counter","path":"a5om8b","project":"a0d8uvdw","account":"144798365827","region":"eu-central-1","deps":["fastapi","gunicorn","psycopg2-binary"],"envs":["DATABASE_URL"],"public":true,"log_level":"off","cron":""}
